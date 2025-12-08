@@ -1,0 +1,29 @@
+@import "tailwindcss";
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
+
+@font-face {
+  font-family: "Monument Extended";
+  font-style: normal;
+  font-weight: 400;
+  src:
+    local("Monument Extended"),
+    url("https://fonts.cdnfonts.com/s/19595/MonumentExtended-Regular.woff")
+      format("woff");
+}
+
+body {
+  color: white;
+  font-family: "Monument Extended";
+}
+
+p {
+  font-family: "Roboto";
+}
+
+.text-color {
+  color: #e70000;
+}
+
+.bg-color {
+  background-color: #e70000;
+}
