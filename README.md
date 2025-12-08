@@ -2,8 +2,8 @@
 *A React + Vite + Tailwind CSS UI Project*
 
 ##  🚀 Live Demo (Optional)
-[Link Text](/public/screen.png
-)
+![Project Screenshot](public/screen.png)
+
 
 ## Overview
 
