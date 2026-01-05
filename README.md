@@ -14,7 +14,7 @@ This project is ideal for developers learning front-end fundamentals, practicing
 
 ## ✨ Why This Project Is Useful
 
-- **Modern Frontend Stack** – Uses Vite for blazing-fast development and Tailwind for utility-first styling.
+- **Modern Frontend Stack** – Uses Vite for blazing-fast development and Tailwind for utility-first styling
 - **Clean, Reusable Components** – Easy for beginners to read and extend  
 - **Fully Responsive Design** – Works perfectly on mobile, tablet, and desktop  
 - **Easy to Customize** – Swap images, colors, or text for any product  
